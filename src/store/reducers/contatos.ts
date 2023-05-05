@@ -29,6 +29,13 @@ const initialState: ContatosState = {
       email: 'rickol@gmail.com',
       telefone: '(21)99675-6789',
       categoria: enums.Categoria.AMIGOS
+    },
+    {
+      id: 4,
+      nome: 'Alberto de Nóbrega',
+      email: 'zebeto@gmail.com',
+      telefone: '(11)99786-5634',
+      categoria: enums.Categoria.OUTROS
     }
   ]
 }
